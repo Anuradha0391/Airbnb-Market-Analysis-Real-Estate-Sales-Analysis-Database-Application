@@ -20,3 +20,7 @@ Designed and deployed Power BI dashboards providing in-depth revenue, utilizatio
  h. Sales_properties_zipcode_92315
 2. Airbnb - Final - The MS Access database
 3. AirBnb - PowerBI dashboard
+
+**How to use --**
+Install MS Access
+Install PowerBI Desktop
