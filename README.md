@@ -11,23 +11,14 @@ Designed and deployed Power BI dashboards providing in-depth revenue, utilizatio
 **Folder Contains --**
 1. The dataset folder in zip file contains 8 datasets --
  a. Amenities
-<br>
  b. Geolocation
-<br>
  c. Market_Analysis
-<br>
  d. Market_Analysis_2019
-<br>
  e. Sales_properties_zipcode_92252
-<br>
  f. Sales_properties_zipcode_92284
-<br>
  g. Sales_properties_zipcode_92314
-<br>
  h. Sales_properties_zipcode_92315
-<br>
 3. Airbnb - Final - The MS Access database
-<br>   
 4. AirBnb - PowerBI dashboard
 
 **How to use --**
