@@ -10,7 +10,6 @@ Designed and deployed Power BI dashboards providing in-depth revenue, utilizatio
 
 **Folder Contains --**
 1. The dataset folder in zip file contains 8 datasets --
-<br>
  a. Amenities
 <br>
  b. Geolocation
@@ -29,7 +28,7 @@ Designed and deployed Power BI dashboards providing in-depth revenue, utilizatio
 <br>
 3. Airbnb - Final - The MS Access database
 <br>   
-5. AirBnb - PowerBI dashboard
+4. AirBnb - PowerBI dashboard
 
 **How to use --**
 <br>
