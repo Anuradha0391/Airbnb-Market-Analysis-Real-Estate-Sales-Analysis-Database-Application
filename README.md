@@ -9,17 +9,27 @@ Based on these preferences, a list of matching properties is displayed. Once a c
 Designed and deployed Power BI dashboards providing in-depth revenue, utilization, and analysis over four years.
 
 **Folder Contains --**
-1. The dataset folder in zip file contains 8 datasets -- 
+1. The dataset folder in zip file contains 8 datasets --
+<br>
  a. Amenities
- b. Geolocation 
- c. Market_Analysis 
+<br>
+ b. Geolocation
+<br>
+ c. Market_Analysis
+<br>
  d. Market_Analysis_2019
+<br>
  e. Sales_properties_zipcode_92252
+<br>
  f. Sales_properties_zipcode_92284
+<br>
  g. Sales_properties_zipcode_92314
+<br>
  h. Sales_properties_zipcode_92315
-2. Airbnb - Final - The MS Access database
-3. AirBnb - PowerBI dashboard
+<br>
+3. Airbnb - Final - The MS Access database
+<br>   
+5. AirBnb - PowerBI dashboard
 
 **How to use --**
 <br>
